@@ -1,7 +1,4 @@
 # Complete-DSA-with-Python
-This  Repository helps understand the basics of python to advanced level of python. 
-
-It will contain all the code from basic level to complete advanced level of DSA .
 
 
-Starting with Strings and Array
+**08-08-26** : `First Commit and Push` , here we have the Basics of Python Programming just more on Syntax and Semantics
